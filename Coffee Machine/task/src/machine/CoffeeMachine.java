@@ -2,6 +2,7 @@ package machine;
 
 public class CoffeeMachine {
     public static void main(String[] args) {
+    //Writing steps to make a coffee
         System.out.println("Starting to make a coffee\n" +
                 "Grinding coffee beans\n" +
                 "Boiling water\n" +
